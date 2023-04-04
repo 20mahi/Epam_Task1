@@ -60,7 +60,7 @@ input[type=email] {
     background-color: gray;
     height: 170px;
     width:500px;
-    align-content: center;
+   
 }
 
 p{
@@ -70,7 +70,6 @@ p{
 .a{
     background-color: black;
     color: white; 
-    margin-right: 900px;   
 }
 
 
